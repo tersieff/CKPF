@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "32186",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
 	"/benjamin-helsten.htm": {
 		"cB": 0,
 		"ft": 8192,
@@ -354,14 +362,6 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/source/html/_header.html",
-		"oF": 0
-		},
-	"/source/html/_practice-footer.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/source/html/_practice-footer.html",
 		"oF": 0
 		},
 	"/source/html/_practice-nav.kit": {
