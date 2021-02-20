@@ -1,0 +1,11 @@
+@media (min-width: 1280px) {
+	div.featured {
+		min-height: 500px;
+	}
+}
+
+@media (min-width: 1600px) {
+	div.featured {
+		min-height: 600px;
+	}
+}

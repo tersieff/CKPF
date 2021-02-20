@@ -1,0 +1,410 @@
+@charset "UTF-8";
+/*
+	meyerweb dot com
+	v2.0 | 20110126
+	License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+strong {
+	font-weight: bold;
+}
+
+body {
+	margin:0 auto;
+	background: #ddddd7 url(../images/bg-cloth-tan.jpg) repeat;
+	font-family: 'Lato', sans-serif;
+	font-weight:400;
+	font-size:14px;
+}
+.clearfloat {
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+h1 {
+	font-size: 28px;
+	font-weight:700;
+	color:#532222;
+	letter-spacing:1px;
+	padding-bottom: 10px;
+}
+h2 {
+	font-size: 18px;
+	font-weight:700;
+	color:#532222;
+	padding: 10px 0;
+}
+p {
+	line-height: 18px;
+	padding-bottom:10px;
+}
+
+div.content ul {
+	line-height: 16px;
+	padding-bottom:10px;
+	list-style: disc;
+}
+div.content li {
+/* 	list-style: circle; */
+	margin-left: 25px;
+	padding: 0 0 4px;
+}
+
+div.col3 ul {
+	line-height: 16px;
+	padding-bottom:0px;
+	list-style: none;
+}
+div.col3 li {
+	margin-left: 0;
+	padding: 0 0 7px;
+}
+
+div.col3 li ul {
+	list-style: circle;
+	margin-left: 20px;
+}
+
+div.col3 li li {
+	padding: 7px 0 0 0px;
+}
+
+
+
+
+a, a:link {
+	color: #532222;
+	text-decoration: underline;
+	-webkit-transition: color .2s ease-in-out;
+}
+a:visited {
+	color: #2C1013;
+	-webkit-transition: color .2s ease-in-out;
+}
+a:hover, a:active, a:visited:hover {
+	color: #7F2E33;
+	text-decoration: none;
+	-webkit-transition: color .1s ease-in-out;
+}
+div.header {
+	padding:20px;
+	height:56px;
+	min-width:950px;
+}
+div.header div.logo {
+	float:left;
+}
+div.header div.phone {
+	float:right;
+	line-height:56px;
+	height:56px;
+	width:250px;
+	text-align:right;
+	text-transform:uppercase;
+	font-size:12px;
+}
+div.phone span {
+	color: #31475c;
+	font-size: 26px;
+	font-weight: 400;
+	padding-left: 6px;
+	text-shadow: 0px 1px #FFFFFF;
+}
+
+
+
+/* Navigation Styles */
+div.nav1wrap {
+	background-color: #532222;
+	width: 100%;
+	background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(47,19,19,1.00)),color-stop( 31.13% , rgba(83,34,34,1.00)));
+	background-image: -webkit-linear-gradient(270deg,rgba(47,19,19,1.00) 0%,rgba(83,34,34,1.00) 31.13%);
+	background-image: linear-gradient(180deg,rgba(47,19,19,1.00) 0%,rgba(83,34,34,1.00) 31.13%);
+	border-bottom:solid 1px #	3e1a1a;
+}
+div.nav1 {
+	width:950px;
+	margin:0 auto;
+}
+div.nav1 ul {
+	list-style: none;
+	float:left;
+	position:relative;
+	z-index:100;
+}
+div.nav1 ul li {
+	list-style:none;
+	width: 157px;
+	float: left;
+	position:relative;
+}
+div.nav1 li a {
+	display:block;
+	color: white;
+	text-align: center;
+	height: 37px;
+	line-height: 37px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 13px;
+	border-right: #6c2d2d solid 1px;
+	text-shadow: 0px -1px #000000;
+	-webkit-transition: background-color .1s ease-in-out;
+}
+div.nav1 li.home a {
+	border-left: #6c2d2d solid 1px;
+}
+div.nav1 li a:hover {
+	background-color:#6c2d2d;
+    background:#ab4a4a; /* lighter burgandy */
+	text-decoration:none;
+	color:#fff;
+}
+
+
+
+
+
+div.nav1 ul ul {
+    background:#532222; /* Adding a background makes the dropdown work properly in IE7+. Make this as close to your page's background as possible (i.e. white page == white background). */
+    background:rgba(255,255,255,0); /* But! Let's make the background fully transparent where we can, we don't actually want to see it if we can help it... */
+    list-style:none;
+    position:absolute;
+    left:-9999px; /* Hide off-screen when not needed (this is more accessible than display:none;) */
+}
+div.nav1 ul ul li{
+    padding-top:0px; /* Introducing a padding between the li and the a give the illusion spaced items */
+    float:none;
+}
+div.nav1 ul ul a {
+    /* white-space:nowrap; */ /* Stop text wrapping and creating multi-line dropdown items */
+    background:rgba(85,35,35,1);
+	border-right:none;
+	border-top: #6c2d2d solid 1px;
+}
+div.nav1 ul li:hover ul{/* Display the dropdown on hover */
+    left:0; /* Bring back on-screen when needed */
+	color:#fff;
+}
+
+
+
+div.nav1 ul li li {
+	/* display: block; */
+}
+div.nav1 li li a {
+	height: inherit;
+	line-height: 15px;
+	padding: 10px 3px;
+}
+
+div.nav1 ul ul li:hover a{ /* These create persistent hover states, meaning the top-most link stays 'hovered' even when your cursor has moved down the list. */
+    background:#532222;
+    text-decoration:none;
+	color:#fff;
+}
+div.nav1 ul li:hover ul a{ /* The persistent hover state does however create a global style for links even before they're hovered. Here we undo these effects. */
+    text-decoration:none;
+}
+div.nav1 ul li:hover ul li a:hover{ /* Here we define the most explicit hover states--what happens when you hover each individual link. */
+    background:#6b2d2d;
+    background:#8a846e; /* brown */
+    background:#ab4a4a; /* lighter burgandy */
+}
+
+
+
+
+
+
+div.footer {
+	text-align: center;
+	background-color: #8a846e;
+	height: 37px;
+	color: #ECE5DB;
+	font-size: 11px;
+	letter-spacing: 1px;
+	border-bottom:solid 1px #6e6957;
+	background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(79,74,55,0.93)),color-stop( 40.13% , rgba(137,131,109,0.50)));
+	background-image: -webkit-linear-gradient(270deg,rgba(79,74,55,0.93) 0%,rgba(137,131,109,0.50) 40.13%);
+	background-image: linear-gradient(180deg,rgba(79,74,55,0.93) 0%,rgba(137,131,109,0.50) 40.13%);
+	text-shadow: 0px -1px #000000;
+	padding:0 20px;
+	margin:0px;
+	min-width: 902px;
+}
+
+div.footer p.footeraddress {
+	text-align: left;
+	display: block;
+	float: left;
+	height: 37px;
+	line-height: 37px;
+}
+div.footer p.footerlinks {
+	text-align: right;
+	display: block;
+	float: right;
+	height: 37px;
+	line-height: 37px;
+}
+
+div.footer a, div.footer a:link, div.footer a:visited {
+	color: #f3caca;
+	text-shadow: 0px -1px #000000;
+	text-decoration: none;
+}
+div.footer a:hover, div.footer a:visited:hover {
+	color: #fff;
+}
+
+div.featured {
+	min-width:950px;
+	background: #000 url(../images/featured-history-future.jpg) no-repeat center 0px;
+	background-size: cover;
+	min-height: 400px;
+}
+div.featured img {
+	width: 100%;
+	height: auto;
+	/*width: auto\9;  ie8 */
+}
+
+
+
+
+div.contentwrap {
+	/* background:url(../images/bg-faded-dam.jpg) no-repeat center 0px; */
+}
+div.content {
+	width: 950px;
+	margin:0 auto;
+	padding:20px 0;
+}
+div.col1, div.col2, div.col3,
+div.col1of2, div.col2of2 {
+	float:left;
+}
+div.col1 {
+	width:198px;
+}
+div.col2 {
+	width:380px;
+	padding:0 20px;
+}
+div.col3 {
+	width:300px;
+	padding-left: 20px;
+	color:#532222;
+	border-left:solid 1px #89836D;
+
+}
+div.col3 h2 {
+	font-size: 16px;
+}
+
+div.col1of2 {
+	width:490px;
+	padding:0 20px;
+	border-right:solid 1px #89836D;
+}
+
+div.col2of2 {
+	width:380px;
+	padding-left: 20px;
+}
+div.google-map, div.google-directions {
+	width: 370px;
+	border: 7px solid #fff;
+	background-color: #fff;
+}
+img.photo {
+	border: 7px solid #fff;
+	-webkit-box-shadow: 0px 0px 4px #000000;
+	box-shadow: 0px 0px 4px #000000;
+	background-color:#89836D;
+}
+div.col, div.col1of3, div.col2of3, div.col3of3 {
+	width:280px;
+	float:left;
+	padding:0 20px 0 0;
+}
+div.col1of3, div.col2of3 {
+	border-right: 1px solid #89836D;
+}
+div.col2of3, div.col3of3 {
+	padding-left: 20px;
+	width: 270px;
+}
+em {
+	font-family:Lato;
+	font-style:italic;
+}
+
+hr {
+	border: none;
+	color: #89836D;
+	background-color: #89836D;
+	height: 1px;
+}
+
+div.colcontent {
+	width:650px;
+	float:right;
+	padding:0 20px 0 20px;
+	border-left:solid 1px #89836D;
+	
+}
+div.colnav {
+	width:260px;
+}
+div.colnav ul, div.colnav li {
+	list-style: none;
+	margin: 0;
+	padding: 0 0 10px;
+}
