@@ -145,21 +145,17 @@ body {
 .footer-wrap {
 	text-align: left;
 	background-color: #8a846e;
-	height: 37px;
 	color: #ECE5DB;
 	font-size: 11px;
 	letter-spacing: 1px;
 	border-bottom: solid 1px #6e6957;
 	background-image: linear-gradient(180deg,rgba(79,74,55,0.93) 0%,rgba(137,131,109,0.50) 40.13%);
 	/* text-shadow: 0px -1px #000000; */
-	padding: 0 20px;
+	padding: 10px 20px;
 	margin: 0px;
-	min-width: 902px;
 }
 .credits {
-	text-align: left;
-	height: 37px;
-	line-height: 37px;
+	margin-bottom: 0px;
 }
 .credits a {
 	color: #fff;
