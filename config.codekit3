@@ -17,6 +17,589 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/assets/bootstrap-4.3/css/bootstrap-grid.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap-grid-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap-4.3/css/bootstrap-grid.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap-grid.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap-4.3/css/bootstrap-grid.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap-grid.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap-4.3/css/bootstrap-grid.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap-grid.min.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap-4.3/css/bootstrap-reboot.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap-reboot-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap-4.3/css/bootstrap-reboot.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap-reboot.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap-4.3/css/bootstrap-reboot.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap-reboot.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap-4.3/css/bootstrap-reboot.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap-reboot.min.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap-4.3/css/bootstrap.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap-4.3/css/bootstrap.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap-4.3/css/bootstrap.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap-4.3/css/bootstrap.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/css/bootstrap.min.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap-4.3/js/bootstrap.bundle.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/js/bootstrap.bundle-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/bootstrap-4.3/js/bootstrap.bundle.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/js/bootstrap.bundle.js.map",
+		"oF": 0
+		},
+	"/assets/bootstrap-4.3/js/bootstrap.bundle.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/js/bootstrap.bundle.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/bootstrap-4.3/js/bootstrap.bundle.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/js/bootstrap.bundle.min.js.map",
+		"oF": 0
+		},
+	"/assets/bootstrap-4.3/js/bootstrap.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/js/bootstrap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/bootstrap-4.3/js/bootstrap.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/js/bootstrap.js.map",
+		"oF": 0
+		},
+	"/assets/bootstrap-4.3/js/bootstrap.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/js/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/bootstrap-4.3/js/bootstrap.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap-4.3/js/bootstrap.min.js.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/css/bootstrap-grid.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap-grid-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap/css/bootstrap-grid.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap-grid.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/css/bootstrap-grid.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap-grid.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap/css/bootstrap-grid.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap-grid.min.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/css/bootstrap-reboot.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap-reboot-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap/css/bootstrap-reboot.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap-reboot.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/css/bootstrap-reboot.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap-reboot.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap/css/bootstrap-reboot.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap-reboot.min.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/css/bootstrap.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap/css/bootstrap.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/css/bootstrap.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/bootstrap/css/bootstrap.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/css/bootstrap.min.css.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/js/bootstrap.bundle.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/js/bootstrap.bundle-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/bootstrap/js/bootstrap.bundle.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/js/bootstrap.bundle.js.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/js/bootstrap.bundle.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/js/bootstrap.bundle.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/bootstrap/js/bootstrap.bundle.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/js/bootstrap.bundle.min.js.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/js/bootstrap.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/js/bootstrap-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/bootstrap/js/bootstrap.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/js/bootstrap.js.map",
+		"oF": 0
+		},
+	"/assets/bootstrap/js/bootstrap.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/js/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/bootstrap/js/bootstrap.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/bootstrap/js/bootstrap.min.js.map",
+		"oF": 0
+		},
+	"/assets/css/custom-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/custom-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/css/custom.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/custom-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/html/_footer.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/assets/html/_footer.htm",
+		"oF": 0
+		},
+	"/assets/html/_header.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/assets/html/_header.htm",
+		"oF": 0
+		},
+	"/assets/html/_practice-nav.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/assets/html/_practice-nav.htm",
+		"oF": 0
+		},
+	"/assets/html/benjamin-helsten.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/benjamin-helsten.htm",
+		"oF": 2
+		},
+	"/assets/html/benjamin-kennedy.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/benjamin-kennedy.htm",
+		"oF": 2
+		},
+	"/assets/html/bradford-masters.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/bradford-masters.htm",
+		"oF": 2
+		},
+	"/assets/html/business.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/business.htm",
+		"oF": 2
+		},
+	"/assets/html/clients.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/clients.htm",
+		"oF": 2
+		},
+	"/assets/html/contact.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/contact.htm",
+		"oF": 2
+		},
+	"/assets/html/employment.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/employment.htm",
+		"oF": 2
+		},
+	"/assets/html/evan-delgado.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/evan-delgado.htm",
+		"oF": 2
+		},
+	"/assets/html/firm.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/firm.htm",
+		"oF": 2
+		},
+	"/assets/html/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/index.htm",
+		"oF": 2
+		},
+	"/assets/html/litigation-dispute-resolution.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/litigation-dispute-resolution.htm",
+		"oF": 2
+		},
+	"/assets/html/michael-ashby.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/michael-ashby.htm",
+		"oF": 2
+		},
+	"/assets/html/patrick-hensleigh.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/patrick-hensleigh.htm",
+		"oF": 2
+		},
+	"/assets/html/privacy.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/privacy.htm",
+		"oF": 2
+		},
+	"/assets/html/randall-nelson.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/randall-nelson.htm",
+		"oF": 2
+		},
+	"/assets/html/real-estate.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/real-estate.htm",
+		"oF": 2
+		},
+	"/assets/html/robert-harding.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/robert-harding.htm",
+		"oF": 2
+		},
+	"/assets/html/taxation.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/taxation.htm",
+		"oF": 2
+		},
+	"/assets/html/terms.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/terms.htm",
+		"oF": 2
+		},
+	"/assets/html/trusts-estates.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/trusts-estates.htm",
+		"oF": 2
+		},
+	"/assets/js/jquery-slim.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/js/jquery-slim.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/benjamin-helsten.htm": {
 		"cB": 0,
 		"ft": 8192,
@@ -150,6 +733,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/logo-carr-kennedy-main.png": {
+		"ft": 32768,
+		"iS": 11234,
+		"oA": 0,
+		"oAP": "/images/logo-carr-kennedy-main.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/logo-carr-kennedy-sub.png": {
+		"ft": 32768,
+		"iS": 12506,
+		"oA": 0,
+		"oAP": "/images/logo-carr-kennedy-sub.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/logo-carr-kennedy.gif": {
 		"ft": 4194304,
 		"iS": 8165,
@@ -276,14 +881,6 @@
 		"oAP": "/index.htm",
 		"oF": 0
 		},
-	"/labor-employment.htm": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/labor-employment.htm",
-		"oF": 0
-		},
 	"/litigation-dispute-resolution.htm": {
 		"cB": 0,
 		"ft": 8192,
@@ -306,14 +903,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/patrick-hensleigh.htm",
-		"oF": 0
-		},
-	"/practice-areas.htm": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/practice-areas.htm",
 		"oF": 0
 		},
 	"/privacy.htm": {
@@ -348,204 +937,380 @@
 		"oAP": "/robert-harding.htm",
 		"oF": 0
 		},
-	"/source/html/_footer.kit": {
+	"/source-old/html/_footer.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/html/_footer.html",
+		"oAP": "/source-old/html/_footer.htm",
 		"oF": 0
 		},
-	"/source/html/_header.kit": {
+	"/source-old/html/_header.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/html/_header.html",
+		"oAP": "/source-old/html/_header.htm",
 		"oF": 0
 		},
-	"/source/html/_practice-nav.kit": {
+	"/source-old/html/_practice-nav.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/source/html/_practice-nav.html",
+		"oAP": "/source-old/html/_practice-nav.htm",
 		"oF": 0
 		},
-	"/source/html/benjamin-helsten.kit": {
+	"/source-old/html/benjamin-helsten.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/benjamin-helsten.htm",
+		"oF": 0
+		},
+	"/source-old/html/benjamin-helsten.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/benjamin-helsten.htm",
+		"oAP": "/source/html/benjamin-helsten.htm",
 		"oF": 2
 		},
-	"/source/html/benjamin-kennedy.kit": {
+	"/source-old/html/benjamin-kennedy.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/benjamin-kennedy.htm",
+		"oF": 0
+		},
+	"/source-old/html/benjamin-kennedy.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/benjamin-kennedy.htm",
+		"oAP": "/source/html/benjamin-kennedy.htm",
 		"oF": 2
 		},
-	"/source/html/bradford-masters.kit": {
+	"/source-old/html/bradford-masters.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/bradford-masters.htm",
+		"oF": 0
+		},
+	"/source-old/html/bradford-masters.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/bradford-masters.htm",
+		"oAP": "/source/html/bradford-masters.htm",
 		"oF": 2
 		},
-	"/source/html/business.kit": {
+	"/source-old/html/business.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/business.htm",
+		"oF": 0
+		},
+	"/source-old/html/business.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/business.htm",
+		"oAP": "/source/html/business.htm",
 		"oF": 2
 		},
-	"/source/html/clients.kit": {
+	"/source-old/html/clients.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/clients.htm",
+		"oF": 0
+		},
+	"/source-old/html/clients.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/clients.htm",
+		"oAP": "/source/html/clients.htm",
 		"oF": 2
 		},
-	"/source/html/contact.kit": {
+	"/source-old/html/contact.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/contact.htm",
+		"oF": 0
+		},
+	"/source-old/html/contact.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/contact.htm",
+		"oAP": "/source/html/contact.htm",
 		"oF": 2
 		},
-	"/source/html/employment.kit": {
+	"/source-old/html/employment.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/employment.htm",
+		"oF": 0
+		},
+	"/source-old/html/employment.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/employment.htm",
+		"oAP": "/source/html/employment.htm",
 		"oF": 2
 		},
-	"/source/html/evan-delgado.kit": {
+	"/source-old/html/evan-delgado.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/evan-delgado.htm",
+		"oF": 0
+		},
+	"/source-old/html/evan-delgado.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/evan-delgado.htm",
+		"oAP": "/source/html/evan-delgado.htm",
 		"oF": 2
 		},
-	"/source/html/firm.kit": {
+	"/source-old/html/firm.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/firm.htm",
+		"oF": 0
+		},
+	"/source-old/html/firm.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/firm.htm",
+		"oAP": "/source/html/firm.htm",
 		"oF": 2
 		},
-	"/source/html/index.kit": {
+	"/source-old/html/index.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/index.htm",
+		"oF": 0
+		},
+	"/source-old/html/index.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/index.htm",
+		"oAP": "/source/html/index.htm",
 		"oF": 2
 		},
-	"/source/html/labor-employment.kit": {
+	"/source-old/html/labor-employment.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/labor-employment.htm",
+		"oF": 0
+		},
+	"/source-old/html/labor-employment.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/labor-employment.htm",
+		"oAP": "/source/html/labor-employment.htm",
 		"oF": 2
 		},
-	"/source/html/litigation-dispute-resolution.kit": {
+	"/source-old/html/litigation-dispute-resolution.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/litigation-dispute-resolution.htm",
+		"oF": 0
+		},
+	"/source-old/html/litigation-dispute-resolution.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/litigation-dispute-resolution.htm",
+		"oAP": "/source/html/litigation-dispute-resolution.htm",
 		"oF": 2
 		},
-	"/source/html/michael-ashby.kit": {
+	"/source-old/html/michael-ashby.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/michael-ashby.htm",
+		"oF": 0
+		},
+	"/source-old/html/michael-ashby.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/michael-ashby.htm",
+		"oAP": "/source/html/michael-ashby.htm",
 		"oF": 2
 		},
-	"/source/html/patrick-hensleigh.kit": {
+	"/source-old/html/patrick-hensleigh.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/patrick-hensleigh.htm",
+		"oF": 0
+		},
+	"/source-old/html/patrick-hensleigh.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/patrick-hensleigh.htm",
+		"oAP": "/source/html/patrick-hensleigh.htm",
 		"oF": 2
 		},
-	"/source/html/practice-areas.kit": {
+	"/source-old/html/practice-areas.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/practice-areas.htm",
+		"oF": 0
+		},
+	"/source-old/html/practice-areas.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/practice-areas.htm",
+		"oAP": "/source/html/practice-areas.htm",
 		"oF": 2
 		},
-	"/source/html/privacy.kit": {
+	"/source-old/html/privacy.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/privacy.htm",
+		"oF": 0
+		},
+	"/source-old/html/privacy.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/privacy.htm",
+		"oAP": "/source/html/privacy.htm",
 		"oF": 2
 		},
-	"/source/html/randall-nelson.kit": {
+	"/source-old/html/randall-nelson.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/randall-nelson.htm",
+		"oF": 0
+		},
+	"/source-old/html/randall-nelson.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/randall-nelson.htm",
+		"oAP": "/source/html/randall-nelson.htm",
 		"oF": 2
 		},
-	"/source/html/real-estate.kit": {
+	"/source-old/html/real-estate.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/real-estate.htm",
+		"oF": 0
+		},
+	"/source-old/html/real-estate.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/real-estate.htm",
+		"oAP": "/source/html/real-estate.htm",
 		"oF": 2
 		},
-	"/source/html/robert-harding.kit": {
+	"/source-old/html/robert-harding.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/robert-harding.htm",
+		"oF": 0
+		},
+	"/source-old/html/robert-harding.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/robert-harding.htm",
+		"oAP": "/source/html/robert-harding.htm",
 		"oF": 2
 		},
-	"/source/html/taxation.kit": {
+	"/source-old/html/taxation.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/taxation.htm",
+		"oF": 0
+		},
+	"/source-old/html/taxation.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/taxation.htm",
+		"oAP": "/source/html/taxation.htm",
 		"oF": 2
 		},
-	"/source/html/terms.kit": {
+	"/source-old/html/terms.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/terms.htm",
+		"oF": 0
+		},
+	"/source-old/html/terms.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/terms.htm",
+		"oAP": "/source/html/terms.htm",
 		"oF": 2
 		},
-	"/source/html/trusts-estates.kit": {
+	"/source-old/html/trusts-estates.htm": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/source-old/html/trusts-estates.htm",
+		"oF": 0
+		},
+	"/source-old/html/trusts-estates.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/trusts-estates.htm",
+		"oAP": "/source/html/trusts-estates.htm",
 		"oF": 2
 		},
 	"/taxation.htm": {
@@ -2532,7 +3297,7 @@
 		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathFilenamePattern": "*.htm",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
