@@ -242,3 +242,7 @@ div.colnav ul, div.colnav li {
 	padding: 0;
 	margin: 0;
 }
+
+*:focus {
+    outline: 0 !important;
+}
