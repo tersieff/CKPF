@@ -557,12 +557,12 @@
 		"oAP": "/real-estate.htm",
 		"oF": 2
 		},
-	"/assets/html/robert-harding.kit": {
+	"/assets/html/robert-harding-archive.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/robert-harding.htm",
+		"oAP": "/robert-harding-archive.htm",
 		"oF": 2
 		},
 	"/assets/html/taxation.kit": {
@@ -927,14 +927,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/real-estate.htm",
-		"oF": 0
-		},
-	"/robert-harding.htm": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/robert-harding.htm",
 		"oF": 0
 		},
 	"/source-old/html/_footer.kit": {
