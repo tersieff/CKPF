@@ -473,6 +473,14 @@
       "oAP" : "\/benjamin-kennedy.htm",
       "oF" : 2
     },
+    "\/assets\/html\/blake-whitacre.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/blake-whitacre.htm",
+      "oF" : 2
+    },
     "\/assets\/html\/bradford-masters.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -642,6 +650,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/benjamin-kennedy.htm",
+      "oF" : 0
+    },
+    "\/blake-whitacre.htm" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/blake-whitacre.htm",
       "oF" : 0
     },
     "\/bradford-masters.htm" : {
@@ -828,6 +844,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/photo-benjamin-kennedy.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/photo-blake-whitacre.jpg" : {
+      "ft" : 16384,
+      "iS" : 29424,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/photo-blake-whitacre.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -1707,7 +1736,7 @@
     "bowerForceLatestOnConflict" : 1,
     "bowerTargetDependencyListType" : 1,
     "bowerUseExactVersion" : 0,
-    "browserRefreshDelay" : 0,
+    "browserRefreshDelay" : 6,
     "browserslistString" : ">0.2%, last 2 versions, Firefox ESR, not dead",
     "buildEnvironment" : 0,
     "buildFolderActive" : 0,
